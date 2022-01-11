@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraja Kutagolla</h1>
 <h3 align="left">I'm passionate programmer and an enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build to solve real-world problems. I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeru-1999&label=Profile%20views&color=0e75b6&style=flat" alt="neeru-1999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeru-1999" alt="neeru-1999" /></a> </p>
-
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 
 - 💬 Ask me about **HTML, CSS, SQL**
